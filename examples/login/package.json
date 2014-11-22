@@ -11,6 +11,6 @@
     "method-override": "~1.0.0",
     "morgan": "~1.5.0",
     "passport": "~0.2.1",
-    "passport-headhunter": "~0.1.7"
+    "passport-headhunter": "~0.1.8"
   }
 }
